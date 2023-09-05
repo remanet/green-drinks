@@ -1,0 +1,11 @@
+* {
+    background-color: lightgreen;
+    color: darkgreen;
+    font-family: fantasy, sans-serif;
+    text-align: center;
+}
+
+ul,
+ol {
+    list-style: none;
+}
