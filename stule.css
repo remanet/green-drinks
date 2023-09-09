@@ -3,9 +3,11 @@
     color: darkgreen;
     font-family: Verdana, Arial, Helvetica, sans-serif;
     text-align: center;
+    padding: 4px;
 }
 
 ul,
 ol {
     list-style: none;
 }
+
